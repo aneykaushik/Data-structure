@@ -1,3 +1,7 @@
+//Array in C++ ,array is a Variable that can be store multiple values of the same type
+// syntax array[index]
+//array index start with 0
+
 #include<iostream>
 using namespace std ;
 
